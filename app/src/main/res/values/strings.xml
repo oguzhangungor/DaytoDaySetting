@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">DaytoDaySetting</string>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="PersonCount">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="GoldList">
+        <item>Tam Altın</item>
+        <item>Yarım Altın</item>
+        <item>Çeyrek Altın</item>
+        <item>Gram Altın</item>
+        <item>Cumhuriyet Altını</item>
+
+    </string-array><string-array name="ExchangeList">
+        <item>Dolar</item>
+        <item>Euro</item>
+        <item>Türk Lirası</item>
+
+
+    </string-array>
+    <string name="collection_icon">+</string>
+    <string name="extraction_icon">-</string>
+    <string name="gold_type_select">Altın Türünü Seçiniz</string>
+    <string name="exchange_type_select">Döviz Türünü Seçiniz</string>
+    <string name="tl_type_select">Türk Lirası</string>
+    <string name="doviz_tl_gunu">Döviz/TL Günü</string>
+    <string name="altin_day">Altın Günü</string>
+</resources>
