@@ -13,6 +13,7 @@
         </activity>
 
         <activity android:name="com.ogungor.daytodaysetting.exchangedaydetails.ExchangeDayDetailsActivity"></activity>
+        <activity android:name=".personEnter.PersonEnterActivity"></activity>
         <activity
             android:name="com.ogungor.daytodaysetting.main.MainActivity" android:exported="true">
             <intent-filter>
