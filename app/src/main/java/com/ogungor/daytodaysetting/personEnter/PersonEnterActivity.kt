@@ -58,7 +58,6 @@ class PersonEnterActivity : BaseActivity() {
             var fm = supportFragmentManager
             var fragment = PersonListFragment(editTextNameList)
             if (fm != null) {
-                fragment.isCancelable=false
                 fragment.show(fm, "PersonList")
             }
         }

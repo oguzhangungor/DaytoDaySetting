@@ -14,6 +14,8 @@ interface PersonListFragmentContract {
     interface View {
 
         fun initUi()
+
+        fun initViewModel()
     }
 
 }
